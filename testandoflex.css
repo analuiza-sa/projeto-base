@@ -1,0 +1,17 @@
+body{ background-color: rgb(24, 21, 21);}
+
+.conteiner{ display: flex;
+/* height: 600px; */
+justify-content: center;
+gap: 20px 40px;
+background-color: lightpink;
+align-items: center;
+flex-wrap: wrap;}
+
+.item {width: 200px;
+height: 200px;
+background-color: paleturquoise;}
+
+.item-3{
+    flex-grow: 1;
+}

@@ -1,0 +1,25 @@
+h1{text-align: center;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+header{background-color: #BDD5EA;}
+h5{text-align: center;}
+ footer{background-color: black;}
+    p{color: white;
+    text-align: center;}
+    a{text-decoration: none;}
+    #pdotexto{color: black;
+    text-align: left;}
+    nav{text-align: center;}
+    * {
+      margin: 0;
+      padding: 0;
+  }
+  div {background-color: #BDD5EA; 
+   width: 500px;
+height: 540px;
+margin: 50px auto;
+text-align: center;}
+ul{display: inline-block;}
+#h2dasementeira{border: 10px solid #ffff;
+border-radius: 80px;}
+h2{text-align: center;
+margin-top: 10px;}
